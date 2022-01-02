@@ -6,7 +6,7 @@ This magic wand is a color changing wand that can cast 7 different colors - Red,
 
 Please buy the RGB LEDs that has the sequence R positive G B.
 
-There are 16 LEDs in total with 8 LEDs on each side.
+There are 32 LEDs in total with 16 LEDs on each side.
 
 The resistors are carefully chosen to regulate the current to the LEDs.
 

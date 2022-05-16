@@ -28,7 +28,7 @@ JLCPCB Customized PCB                         * 1
 
 RGB 5 mm LED Common Anode                     * 32
 
-DIP Switch 8 Pin Through Hole                 * 1
+DIP Switch 6 Pin Through Hole                 * 1
 
 Through Hole Resistor, 51 ohm                 * 2
 

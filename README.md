@@ -26,13 +26,13 @@ Things we need:
 
 JLCPCB Customized PCB                         * 1
 
-RGB 10mm LED Common Anode                     * 32
+RGB 5 mm LED Common Anode                     * 32
 
 DIP Switch 8 Pin Through Hole                 * 1
 
-Through Hole Resistor, 51 ohm                 * 32
+Through Hole Resistor, 51 ohm                 * 2
 
-Through Hole Resistor, 33 ohm                 * 32
+Through Hole Resistor, 75 ohm                 * 1
 
 Soldering iron (generic)                      * 1
 
